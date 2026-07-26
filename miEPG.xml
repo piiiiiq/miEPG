@@ -76,7 +76,7 @@
 	</programme>
 	<programme start="20260726145500 +0200" stop="20260726154500 +0200" channel="La 1">
     <title>Telediario 1 Fin de Semana</title>
-    <desc>Información,Informativo | 2021 | TP | *4.2/10
+    <desc>Información,Informativo | 2021 | *4.2/10
 · Noticiario del fin de semana, que pone especial énfasis en los acontecimientos deportivos.
 · País: España
 · Presenta: Marc Sala, Lourdes Maldonado.
@@ -140,7 +140,7 @@
 	</programme>
 	<programme start="20260726205500 +0200" stop="20260726215000 +0200" channel="La 1">
     <title>Telediario 2 Fin de Semana</title>
-    <desc>Información,Informativo | 2017 | TP | *4.0/10
+    <desc>Información,Informativo | 2017 | *4.0/10
 · Informativo de Televisión Española de los fines de semana. Marc Sala y Lourdes Maldonado se encargan de presentar las últimas noticias de ámbito nacional e internacional surgidas durante el día. Mientras, Marcos López, introduce el bloque de deportes.
 · País: España
 · Presenta: Marc Sala, Lourdes Maldonado.
@@ -202,7 +202,7 @@
 	</programme>
 	<programme start="20260727070000 +0200" stop="20260727083000 +0200" channel="La 1">
     <title>Telediario Matinal</title>
-    <desc>Información,Informativo | 2023 | *6.0/10
+    <desc>Información,Informativo | 2023 | TP | *6.0/10
 · Lorena Baeza y Álex Barreiro conducen este rápido y exhaustivo repaso de todas las noticias de interés general. Además, se ofrece la actualidad meteorológica de España y de Europa y el estado de la mar. Rubén Briones presenta la información deportiva.
 · País: España
 · Presenta: Sirun Demirjian, Lorena Baeza, Álex Barreiro.
@@ -224,7 +224,7 @@
 	</programme>
 	<programme start="20260727145500 +0200" stop="20260727153000 +0200" channel="La 1">
     <title>Telediario 1</title>
-    <desc>Información,Informativo | 2014 | TP | *6.2/10
+    <desc>Información,Informativo | 2014 | *6.2/10
 · El noticiario audiovisual más veterano de la historia de la televisión en España. Alejandra Herranz hace un repaso diario a la actualidad general de España y el mundo, además de una sección dedicada al deporte.
 · País: España
 · Presenta: Alejandra Herranz.
@@ -735,13 +735,13 @@
 · País: España
 · Productora: Centro de Diseño y Producción de Medios Audiovisuales (CEMAV).</desc>
 	</programme>
-	<programme start="20260726073500 +0200" stop="20260726082500 +0200" channel="La 2 Super Full HD 8k">
+	<programme start="20260726073500 +0200" stop="20260726082800 +0200" channel="La 2 Super Full HD 8k">
     <title>planeta arqueología: Cuando el pasado se explica · Conseguir que hablen los objetos</title>
     <desc>Documentales,Naturaleza | 2022 | TP | *6.0/10
 · La tecnología punta se une a la arqueología en esta serie que arroja luz sobre el pasado con mucho más nivel de detalle.
 · Dirección: Alexandra Barbot.</desc>
 	</programme>
-	<programme start="20260726082500 +0200" stop="20260726091500 +0200" channel="La 2 Super Full HD 8k">
+	<programme start="20260726082800 +0200" stop="20260726091400 +0200" channel="La 2 Super Full HD 8k">
     <title>Los conciertos de La 2 T25/26 · OCRTVE B-10</title>
     <desc>Música,Música clásica | 2026 | TP | *6.0/10
 · Retransmisión de un concierto de la Orquestra Sinfónica o del Coro de RTVE.
@@ -749,13 +749,13 @@
 · Dirección: Arturo Morales.
 · Productora: Televisión Española (TVE).</desc>
 	</programme>
-	<programme start="20260726091500 +0200" stop="20260726093000 +0200" channel="La 2 Super Full HD 8k">
+	<programme start="20260726091400 +0200" stop="20260726092900 +0200" channel="La 2 Super Full HD 8k">
     <title>Medina en tve</title>
     <desc>Cultural/Educativo,Religión | 2017 | TP | *6.2/10
 · Programa de culto islámico.
 · País: España</desc>
 	</programme>
-	<programme start="20260726093000 +0200" stop="20260726094500 +0200" channel="La 2 Super Full HD 8k">
+	<programme start="20260726092900 +0200" stop="20260726094500 +0200" channel="La 2 Super Full HD 8k">
     <title>Buenas noticias. TV</title>
     <desc>Cultural/Educativo,Religión | 2017 | TP | *6.0/10
 · Programa semanal de las Iglesias Evangélicas de España.
@@ -778,7 +778,7 @@
 · Dirección: María de los Ángeles Fernández.
 · Producción: Antonio Torets Leal.</desc>
 	</programme>
-	<programme start="20260726102500 +0200" stop="20260726103000 +0200" channel="La 2 Super Full HD 8k">
+	<programme start="20260726102500 +0200" stop="20260726102900 +0200" channel="La 2 Super Full HD 8k">
     <title>Testimonio</title>
     <desc>Cultural/Educativo,Religión | 2017 | TP | *6.0/10
 · Minireportajes que dan a conocer las distintas realidades de la Iglesia.
@@ -788,7 +788,7 @@
 · Guion: Isidro Catela.
 · Producción: Antonio Torets Leal.</desc>
 	</programme>
-	<programme start="20260726103000 +0200" stop="20260726113000 +0200" channel="La 2 Super Full HD 8k">
+	<programme start="20260726102900 +0200" stop="20260726113000 +0200" channel="La 2 Super Full HD 8k">
     <title>El día del señor T2026 · Parroquia Santiago Apostol, Torrejón de Ardoz</title>
     <desc>Cultural/Educativo,Religión | 2026 | TP | *4.0/10
 · Programa religioso que retransmite la celebración de la eucaristía desde diferentes parroquias de toda España y un reportaje relacionado con la localidad, su patrimonio cultural, artístico, o de la festividad que se celebra en la liturgia.
@@ -796,7 +796,7 @@
 · Dirección: Juan Carlos Ramos.
 · Productora: Televisión Española (TVE).</desc>
 	</programme>
-	<programme start="20260726113000 +0200" stop="20260726120000 +0200" channel="La 2 Super Full HD 8k">
+	<programme start="20260726113000 +0200" stop="20260726115900 +0200" channel="La 2 Super Full HD 8k">
     <title>Pueblo de Dios</title>
     <desc>Cultural/Educativo,Religión | 1982 | TP | *6.2/10
 · Programa religioso que ofrece reportajes sobre el trabajo que realizan ONG en Sudamérica.
@@ -804,7 +804,7 @@
 · Dirección: Julián Del Olmo.
 · Productora: Televisión Española (TVE).</desc>
 	</programme>
-	<programme start="20260726120000 +0200" stop="20260726122500 +0200" channel="La 2 Super Full HD 8k">
+	<programme start="20260726115900 +0200" stop="20260726122500 +0200" channel="La 2 Super Full HD 8k">
     <title>Pueblo de Dios</title>
     <desc>Cultural/Educativo,Religión | 1982 | TP | *6.2/10
 · Programa religioso que ofrece reportajes sobre el trabajo que realizan ONG en Sudamérica.
@@ -863,7 +863,7 @@
 	</programme>
 	<programme start="20260726161500 +0200" stop="20260726171000 +0200" channel="La 2 Super Full HD 8k">
     <title>Australia indómita: Bosque</title>
-    <desc>Documentales,Naturaleza | 2019 | TP | *5.8/10
+    <desc>Documentales,Naturaleza | 2019 | TP | *6.0/10
 · Serie documental que capta una amplia gama de vida animal mientras explora algunos de los lugares más salvajes y los hábitats más duros de Australia.
 · País: Australia
 · Dirección: Veronica Fury, Sky Kinnimont.
@@ -997,7 +997,7 @@
 	</programme>
 	<programme start="20260727070000 +0200" stop="20260727073000 +0200" channel="La 2 Super Full HD 8k">
     <title>Jardines con historia: Madrid: monasterio de El Escorial</title>
-    <desc>Documentales,Naturaleza | 2022 | TP | *8.0/10
+    <desc>Documentales,Naturaleza | 2022 | TP | *9.0/10
 · En el año 1561 Felipe II decide edificar el Monasterio de El Escorial en el que construirá huertas y arboledas que conformarán un jardín botánico de especies medicinales, cuyas destilaciones servirán para cuidar a los monjes y a la corte.
 · País: España
 · Presenta: Arturo Franco.
@@ -1006,7 +1006,7 @@
 	</programme>
 	<programme start="20260727073000 +0200" stop="20260727080000 +0200" channel="La 2 Super Full HD 8k">
     <title>Jardines con historia: Córdoba-Medina Azahara</title>
-    <desc>Documentales,Naturaleza | 2022 | TP
+    <desc>Documentales,Naturaleza | 2022 | TP | *10.0/10
 · Hubo un tiempo en que Córdoba fue la capital del imperio más poderoso de occidente.
 · País: España
 · Presenta: Arturo Franco.
@@ -3524,6 +3524,43 @@
   <programme start="20260728233000 -0500" stop="20260729001500 -0500" channel="MX | Canal TV Azteca">
     <title lang="es">Hechos noche</title>
   </programme>
+	<programme start="20260726082500 +0200" stop="20260726091500 +0200" channel="La 2 Super Full HD 8k">
+    <title>Los conciertos de La 2 T25/26 · OCRTVE B-10</title>
+    <desc>Música,Música clásica | 2026 | TP | *6.0/10
+· Retransmisión de un concierto de la Orquestra Sinfónica o del Coro de RTVE.
+· País: España
+· Dirección: Arturo Morales.
+· Productora: Televisión Española (TVE).</desc>
+	</programme>
+	<programme start="20260726091500 +0200" stop="20260726093000 +0200" channel="La 2 Super Full HD 8k">
+    <title>Medina en tve</title>
+    <desc>Cultural/Educativo,Religión | 2017 | TP | *6.2/10
+· Programa de culto islámico.
+· País: España</desc>
+	</programme>
+	<programme start="20260726093000 +0200" stop="20260726094500 +0200" channel="La 2 Super Full HD 8k">
+    <title>Buenas noticias. TV</title>
+    <desc>Cultural/Educativo,Religión | 2017 | TP | *6.0/10
+· Programa semanal de las Iglesias Evangélicas de España.
+· País: España
+· Presenta: Benita Moreno.</desc>
+	</programme>
+	<programme start="20260726103000 +0200" stop="20260726113000 +0200" channel="La 2 Super Full HD 8k">
+    <title>El día del señor T2026 · Parroquia Santiago Apostol, Torrejón de Ardoz</title>
+    <desc>Cultural/Educativo,Religión | 2026 | TP | *4.0/10
+· Programa religioso que retransmite la celebración de la eucaristía desde diferentes parroquias de toda España y un reportaje relacionado con la localidad, su patrimonio cultural, artístico, o de la festividad que se celebra en la liturgia.
+· País: España
+· Dirección: Juan Carlos Ramos.
+· Productora: Televisión Española (TVE).</desc>
+	</programme>
+	<programme start="20260726120000 +0200" stop="20260726122500 +0200" channel="La 2 Super Full HD 8k">
+    <title>Pueblo de Dios</title>
+    <desc>Cultural/Educativo,Religión | 1982 | TP | *6.2/10
+· Programa religioso que ofrece reportajes sobre el trabajo que realizan ONG en Sudamérica.
+· País: España
+· Dirección: Julián Del Olmo.
+· Productora: Televisión Española (TVE).</desc>
+	</programme>
 	<programme start="20260725070000 +0200" stop="20260725100000 +0200" channel="La 1">
     <title>Noticias 24H</title>
     <desc>Información,Informativo | 2021 | *6.2/10
